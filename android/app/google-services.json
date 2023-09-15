@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149134291332",
+    "project_id": "prueba-14aa8",
+    "storage_bucket": "prueba-14aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149134291332:android:a83931414626f4337b2dd1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_course_freecodecamp01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149134291332-gel7pq1a2nljt7lr45tjp999ud0cmdgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR1AyYjSD3rsMNVJt_rxFe3QpIcT1ZFYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149134291332-gel7pq1a2nljt7lr45tjp999ud0cmdgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
